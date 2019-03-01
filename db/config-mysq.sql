@@ -1,4 +1,4 @@
-CREATE TABLE `m_dd_value` (
+CREATE TABLE `sys_dd_value` (
   `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '编码',
   `dd_key` varchar(64) NOT NULL COMMENT '数据字典编码',
   `dd_label` varchar(128) NOT NULL COMMENT '数据字典域名称',
