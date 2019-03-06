@@ -1,273 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6786345-3bc6-43f9-922b-165a82635201" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_qcloud_cos_api_4_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_25_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+    <list default="true" id="e6786345-3bc6-43f9-922b-165a82635201" name="Default" comment="add sys-dd.">
+      <change afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysDdValueController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysDdValueDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysDdValueEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysDdValueService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysDdValueServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/sys/SysDdValueDao.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/RenrenApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/RenrenApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/aspect/RedisAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/aspect/RedisAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/aspect/SysLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/aspect/SysLogAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/exception/RRException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/exception/RRException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/exception/RRExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/exception/RRExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$CloudService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$CloudService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$MenuType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$MenuType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$ScheduleStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Constant$ScheduleStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/DateUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/IPUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/IPUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/MapUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/MapUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/PageUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/PageUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/Query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/R.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/RedisKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/RedisKeys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/RedisUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/RedisUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/ShiroUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/ShiroUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/utils/SpringContextUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/utils/SpringContextUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/validator/Assert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/validator/Assert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/validator/ValidatorUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/validator/ValidatorUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/xss/HTMLFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/xss/HTMLFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/xss/SQLFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/xss/SQLFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssHttpServletRequestWrapper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssHttpServletRequestWrapper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssHttpServletRequestWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/common/xss/XssHttpServletRequestWrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/config/CorsConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/config/RedisConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/config/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/config/ShiroConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/datasources/DynamicDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/datasources/DynamicDataSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/datasources/DynamicDataSourceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/datasources/DynamicDataSourceConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/datasources/aspect/DataSourceAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/datasources/aspect/DataSourceAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/config/WebMvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppLoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppRegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppRegisterController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/controller/AppTestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/entity/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/entity/UserEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/form/LoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/form/LoginForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/form/RegisterForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/form/RegisterForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/interceptor/AuthorizationInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/interceptor/AuthorizationInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/resolver/LoginUserHandlerMethodArgumentResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/resolver/LoginUserHandlerMethodArgumentResolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/app/utils/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/app/utils/JwtUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/config/ScheduleConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/config/ScheduleConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/controller/ScheduleJobController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/controller/ScheduleJobController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/controller/ScheduleJobLogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/controller/ScheduleJobLogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/dao/ScheduleJobDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/dao/ScheduleJobDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/entity/ScheduleJobEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/entity/ScheduleJobEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/entity/ScheduleJobLogEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/entity/ScheduleJobLogEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/ScheduleJobLogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/ScheduleJobLogService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/ScheduleJobService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/ScheduleJobService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/impl/ScheduleJobLogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/impl/ScheduleJobLogServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/impl/ScheduleJobServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/service/impl/ScheduleJobServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/task/TestTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/task/TestTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/job/utils/ScheduleUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/AliyunCloudStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/AliyunCloudStorageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/CloudStorageConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/CloudStorageConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/CloudStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/CloudStorageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/QcloudCloudStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/QcloudCloudStorageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/QiniuCloudStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/cloud/QiniuCloudStorageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/controller/SysOssController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/controller/SysOssController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/entity/SysOssEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/entity/SysOssEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/service/SysOssService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/service/SysOssService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/service/impl/SysOssServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/oss/service/impl/SysOssServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysConfigController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysLogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysLogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysLoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysMenuController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysRoleController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/controller/SysUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysConfigDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysConfigDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysMenuDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysMenuDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysRoleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysRoleDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysRoleMenuDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysRoleMenuDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserRoleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserRoleDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserTokenDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/dao/SysUserTokenDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysCaptchaEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysCaptchaEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysConfigEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysConfigEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysLogEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysLogEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysMenuEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysMenuEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysRoleEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysRoleEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysRoleMenuEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysRoleMenuEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserRoleEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserRoleEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserTokenEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/entity/SysUserTokenEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/form/PasswordForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/form/PasswordForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/form/SysLoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/form/SysLoginForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Realm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Realm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/OAuth2Token.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/TokenGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/oauth2/TokenGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/redis/SysConfigRedis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/redis/SysConfigRedis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/ShiroService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/ShiroService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysCaptchaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysCaptchaService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysConfigService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysConfigService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysLogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysLogService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysMenuService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysRoleMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysRoleMenuService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysRoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysRoleService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserRoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserRoleService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserTokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/SysUserTokenService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/ShiroServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/ShiroServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysCaptchaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysCaptchaServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysConfigServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysConfigServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysLogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysLogServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysMenuServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysRoleMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysRoleMenuServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysRoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysRoleServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserRoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserRoleServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserTokenServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/renren/modules/sys/service/impl/SysUserTokenServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/io/renren/service/DataSourceTestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/renren/service/DataSourceTestService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -280,45 +21,51 @@
     <session id="1921686172">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="15" />
-          <entry key="sql" value="1" />
+          <entry key="class" value="10" />
+          <entry key="java" value="23" />
+          <entry key="sql" value="6" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
-          <entry key="yml" value="3" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="15" />
+          <entry key="CLASS" value="10" />
+          <entry key="JAVA" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SQL" value="1" />
-          <entry key="XML" value="1" />
-          <entry key="YAML" value="3" />
+          <entry key="SQL" value="6" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10" />
-          <entry key="txt" value="42" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="30" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="60" />
+          <entry key="xml" value="7" />
           <entry key="yml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="PLAIN_TEXT" value="42" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="30" />
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="SQL" value="1" />
+          <entry key="XML" value="7" />
           <entry key="YAML" value="8" />
         </counts>
       </usages-collector>
@@ -326,83 +73,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/config-mysq.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/oa/oaholidayapply_menu.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/controller/SysGeneratorController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/oa/OaHolidayapplyDao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/GenUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/SysGeneratorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="225" column="32" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/Query.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/config/DbConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/oss/service/impl/SysOssServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/exception/RRException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="208">
+              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -415,9 +108,13 @@
       <find>helper.sprin</find>
       <find>fast</find>
       <find>velocity</find>
+      <find>BaseMapper</find>
+      <find>sys:dd:save</find>
+      <find>generator:sysddvalue</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>sys:dd</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -438,6 +135,14 @@
         <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/SysGeneratorService.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/renren/common/utils/GenUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/controller/SysGeneratorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/SysDdValueService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/dao/SysDdValueDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/impl/SysDdValueServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/sys/SysDdValueDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/controller/SysDdValueController.java" />
+        <option value="$PROJECT_DIR$/db/config-mysq.sql" />
+        <option value="$PROJECT_DIR$/db/oa/oaholidayapply_menu.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/oa/OaHolidayapplyDao.xml" />
       </list>
     </option>
   </component>
@@ -511,7 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -527,6 +232,12 @@
             <path>
               <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="oa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -549,34 +260,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="renren" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
@@ -595,29 +278,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="renren" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="sys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="sys" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="sys" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="oa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
@@ -626,11 +287,28 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecm-platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecm-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="oa" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -642,15 +320,19 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551411942271" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551885939859" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db/oa" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.renren.common.utils" />
       <recent name="io.renren.modules.sys.service" />
@@ -658,11 +340,11 @@
       <recent name="io.renren.modules.sys.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/io/renren/common/utils" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/db/oa" />
+      <recent name="$PROJECT_DIR$/db" />
       <recent name="$PROJECT_DIR$/src/main/resources/mapper/sys" />
-      <recent name="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/entity" />
-      <recent name="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/dao" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/impl" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -735,16 +417,72 @@
       <updated>1551334854472</updated>
       <workItem from="1551334856871" duration="6666000" />
       <workItem from="1551359726126" duration="2293000" />
-      <workItem from="1551401383021" duration="5229000" />
+      <workItem from="1551401383021" duration="12306000" />
+      <workItem from="1551513342649" duration="1408000" />
+      <workItem from="1551588875804" duration="281000" />
+      <workItem from="1551680560063" duration="1708000" />
+      <workItem from="1551882203503" duration="4085000" />
     </task>
+    <task id="LOCAL-00001" summary="add sys-dd.">
+      <created>1551681766964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551681766964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add sys-dd.">
+      <created>1551683166613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551683166614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14188000" />
+    <option name="totallyTimeSpent" value="28747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="6" weight="0.24964234" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="0" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32823366" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32962447" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5007153" side_tool="true" weight="0.511822" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49928468" weight="0.4047288" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="0" sideWeight="0.4985755" weight="0.18597998" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="310" height="611" id="Documentation" order="10" sideWeight="0.5014245" side_tool="true" weight="0.18597998" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Image Layers" order="2" />
@@ -757,29 +495,29 @@
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32823366" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.0" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32962447" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5007153" side_tool="true" weight="0.511822" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.511822" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49928468" visible="true" weight="0.5646732" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="right" x="0" y="0" width="310" height="611" id="Documentation" sideWeight="0.5014245" side_tool="true" visible="true" weight="0.18597998" />
-      <window_info anchor="right" id="Maven Projects" order="0" sideWeight="0.4985755" visible="true" weight="0.18597998" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Bean Validation" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout>
+      <window_info anchor="right" x="0" y="0" width="310" height="611" id="Documentation" order="0" sideWeight="0.5014245" side_tool="true" weight="0.18597998" />
+      <window_info anchor="right" id="Maven Projects" order="1" sideWeight="0.4985755" weight="0.18597998" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Commander" order="8" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -787,14 +525,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add sys-dd." />
+    <option name="LAST_COMMIT_MESSAGE" value="add sys-dd." />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/controller/SysRoleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/impl/SysUserRoleServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -900,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/dao/MySQLGeneratorDao.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -950,13 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/RRException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/RRException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/exception/RRException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
@@ -968,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -995,20 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/Query.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/SysGeneratorService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,9 +739,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/dao/SysDdValueDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/SysDdValueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/mapper/SqlHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/sys/SQLServerGeneratorDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/service/impl/SysDdValueServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/plugins/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/sys/SysDdValueDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/entity/SysDdValueEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/common/utils/GenQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/renren/modules/sys/controller/SysDdValueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config-mysq.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/oa/oaholidayapply_menu.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/oa/OaHolidayapplyDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
         </state>
       </provider>
     </entry>
