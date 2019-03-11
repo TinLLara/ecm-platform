@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="io.renren.modules.oa.dao.OaYinzsqDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="io.renren.modules.oa.entity.OaYinzsqEntity" id="oaYinzsqMap">
+        <result property="id" column="id"/>
+        <result property="appname" column="appname"/>
+        <result property="appdate" column="appdate"/>
+        <result property="depart" column="depart"/>
+        <result property="yynum" column="yynum"/>
+        <result property="type" column="type"/>
+        <!--<result property="corpname" column="corpname"/>-->
+        <!--<result property="fileormeno" column="fileormeno"/>-->
+        <!--<result property="filename" column="filename"/>-->
+        <!--<result property="fileid" column="fileid"/>-->
+        <!--<result property="advice" column="Advice"/>-->
+        <!--<result property="mailcopier" column="mailcopier"/>-->
+        <!--<result property="creator" column="creator"/>-->
+        <!--<result property="creatdate" column="creatdate"/>-->
+        <!--<result property="event" column="event"/>-->
+        <!--<result property="project" column="project"/>-->
+        <!--<result property="nextop" column="nextop"/>-->
+        <!--<result property="nextoper" column="nextoper"/>-->
+        <!--<result property="comeon" column="comeon"/>-->
+        <!--<result property="appresult" column="appresult"/>-->
+    </resultMap>
+
+
+</mapper>
